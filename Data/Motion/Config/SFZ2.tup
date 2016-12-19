@@ -1,0 +1,93 @@
+92
+5 8 unitCode
+1 2
+5 8 axisCode
+1 4
+5 13 controlNumber
+1 0
+5 10 nodeNumber
+1 8
+5 10 axisNumber
+1 13
+5 8 nodeType
+1 0
+5 15 applicationType
+1 0
+5 5 gearA
+2 4.0000000000000000e+003
+5 5 gearB
+2 4.0000000000000000e+003
+5 10 speed.rate
+2 5.0000000000000000e-001
+5 14 speed.velocity
+2 2.9999999999999999e-002
+5 18 speed.acceleration
+2 1.0000000000000001e-001
+5 18 speed.deceleration
+2 1.0000000000000001e-001
+5 17 speed.jerkPercent
+2 0.0000000000000000e+000
+5 20 homing.P_LimitAction
+1 0
+5 22 homing.P_LimitPolarity
+1 0
+5 22 homing.P_LimitDuration
+2 1.0000000000000000e-003
+5 20 homing.N_LimitAction
+1 4
+5 22 homing.N_LimitPolarity
+1 0
+5 22 homing.N_LimitDuration
+2 1.0000000000000000e-003
+5 16 homing.direction
+1 1
+5 16 homing.maxStroke
+2 2.8800000000000000e+005
+5 27 homing.captureReadyPosition
+2 5.0000000000000000e+003
+5 18 homing.dedicatedIn
+1 4
+5 23 homing.captureDirection
+1 1
+5 18 homing.captureEdge
+1 2
+5 26 homing.captureMovingStroke
+2 1.0000000000000000e+004
+5 23 homing.capturedPosition
+2 0.0000000000000000e+000
+5 19 homing.homePosition
+2 5.0000000000000000e+003
+5 16 homing.timeLimit
+2 6.0000000000000000e+001
+5 23 homing.captureTimeLimit
+2 3.0000000000000000e+001
+5 21 homing.speed.velocity
+2 1.0000000000000000e-002
+5 25 homing.speed.acceleration
+2 1.0000000000000000e-002
+5 25 homing.speed.deceleration
+2 1.0000000000000000e-002
+5 24 homing.speed.jerkPercent
+2 6.6000000000000000e+001
+5 28 homing.captureSpeed.velocity
+2 1.0000000000000000e-002
+5 32 homing.captureSpeed.acceleration
+2 1.0000000000000000e-002
+5 32 homing.captureSpeed.deceleration
+2 1.0000000000000000e-002
+5 31 homing.captureSpeed.jerkPercent
+2 6.6000000000000000e+001
+5 13 homing.method
+1 1
+5 32 homing.axtHomeSensor.modulNumber
+1 0
+5 30 homing.axtHomeSensor.bitNumber
+1 0
+5 33 homing.gpHomeSensor.controlNumber
+1 0
+5 31 homing.gpHomeSensor.motorNumber
+1 0
+5 29 homing.gpHomeSensor.bitNumber
+1 0
+5 19 homing.originOffset
+2 0.0000000000000000e+000

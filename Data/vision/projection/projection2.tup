@@ -1,0 +1,27 @@
+26
+5 6 camNum
+1 2
+5 7 modelID
+1 -1
+5 8 isCreate
+5 4 true
+5 10 createRow1
+1 204
+5 10 createRow2
+1 820
+5 13 createColumn1
+1 256
+5 13 createColumn2
+1 1024
+5 12 thresholdMin
+1 150
+5 12 thresholdMax
+1 255
+5 10 edgeFilter
+1 30
+5 9 direction
+1 1
+5 4 type
+1 0
+5 9 quardrant
+1 0
